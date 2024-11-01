@@ -1,3 +1,6 @@
+ Name:satish Reddy
+Study:Mater of computer apllication
+Project:Personal-Portfolio-Website
 ![image](https://github.com/user-attachments/assets/8949b1d5-1ac3-47a1-8b4e-3429480d6870)
 ![image](https://github.com/user-attachments/assets/ca8ef84d-4397-46f5-864d-2915e1091baf)
 ![image](https://github.com/user-attachments/assets/03ce345b-d01c-43c1-bf5a-737bcefe89c0)
