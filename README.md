@@ -4,6 +4,18 @@ Personal-Portfolio_website
 
 https://satishreddy08.github.io/personal-portfolio-website/
 
+## Sections 📚
+✔️ Home\
+✔️ Portfolio\
+✔️ About\
+✔️ Programming Languages\
+✔️ Contact Me\
+
+## Tools Used 🛠️
+* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
+
+
+
 
 
 ## Home Page:
