@@ -6,7 +6,8 @@ https://satishreddy08.github.io/personal-portfolio-website/
 
 
 ## Home Page:
-![image](https://github.com/user-attachments/assets/8949b1d5-1ac3-47a1-8b4e-3429480d6870)
+![image](https://github.com/user-attachments/assets/918bfcc5-31ea-423e-b293-3a7ce90ab6ed)
+
 
 ## Portfolio Page:
 ![image](https://github.com/user-attachments/assets/ca8ef84d-4397-46f5-864d-2915e1091baf)
