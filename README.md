@@ -15,11 +15,10 @@ Personal-Portfolio_website
 
 
 ## Portfolio Page:
-![image](https://github.com/user-attachments/assets/c0324fd0-62d4-43e9-85e1-691062b240b1)
+
 
 ## About Page:
-![image](https://github.com/user-attachments/assets/03ce345b-d01c-43c1-bf5a-737bcefe89c0)
-
+![image](https://github.com/user-attachments/assets/c0324fd0-62d4-43e9-85e1-691062b240b1)
 ## Laguages Page:
 ![image](https://github.com/user-attachments/assets/9aedf277-221a-44d3-963e-9a129359f51e)
 
