@@ -21,10 +21,12 @@ Personal-Portfolio_website
 ## About Page:
 ![image](https://github.com/user-attachments/assets/c0324fd0-62d4-43e9-85e1-691062b240b1)
 ## Laguages Page:
-![image](https://github.com/user-attachments/assets/9aedf277-221a-44d3-963e-9a129359f51e)
+![image](https://github.com/user-attachments/assets/6cc5ff78-289f-416f-914f-31d906224821)
+
 
 ## Contact Page:
-![image](https://github.com/user-attachments/assets/cb5a208b-a4b0-464c-9983-44d286b008b6)
+![image](https://github.com/user-attachments/assets/1cae806e-f8d1-4bcf-a668-1ea63c18ae02)
+
 
 
 ## Sections 📚
