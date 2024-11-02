@@ -10,7 +10,8 @@ Personal-Portfolio_website
 
 
 ## Home Page:
-![image](https://github.com/user-attachments/assets/918bfcc5-31ea-423e-b293-3a7ce90ab6ed)
+![image](https://github.com/user-attachments/assets/6fa90bc5-4864-480b-a780-7684d01d2689)
+
 
 
 ## Portfolio Page:
