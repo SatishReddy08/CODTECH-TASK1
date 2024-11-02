@@ -15,7 +15,7 @@ Personal-Portfolio_website
 
 
 ## Portfolio Page:
-![image](https://github.com/user-attachments/assets/ca8ef84d-4397-46f5-864d-2915e1091baf)
+![image](https://github.com/user-attachments/assets/c0324fd0-62d4-43e9-85e1-691062b240b1)
 
 ## About Page:
 ![image](https://github.com/user-attachments/assets/03ce345b-d01c-43c1-bf5a-737bcefe89c0)
