@@ -1,8 +1,11 @@
-# Project Name:
-
-Personal-Portfolio_website
+# Project Name:** Personal-Portfolio_website
 
  https://satishreddy08.github.io/personal-portfolio-website/
+ **nAME:** SATISH REDDY
+ **Company:** CODTECH IT SOLUTIONS
+ **ID:** 
+ **Domain:** 
+ **Mentor:**
 
 
 
