@@ -1,10 +1,13 @@
 **Name:** SATISH REDDY
 
 **Company:** CODTECH IT SOLUTION
-**iD:**
-**Domain:**
-**Duration:**
-**Mentor:**
+**iD:** CT12DS2486
+
+**Domain:** FRONTEND
+
+**Duration:** SEPTEMBER 20th,2024 to NOVEMBER 20th,2024
+
+**Mentor:** Neel Santhosh Kumaar
 
 
 
