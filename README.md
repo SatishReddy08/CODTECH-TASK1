@@ -1,5 +1,10 @@
 **Name:** SATISH REDDY
+
 **Company:** CODTECH IT SOLUTION
+**iD:**
+**Domain:**
+**Duration:**
+**Mentor:**
 
 
 
