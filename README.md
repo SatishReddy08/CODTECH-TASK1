@@ -4,7 +4,7 @@
 **ID:** CT12DS2486  
 **Domain:** FRONTEND  
 **Duration:** SEPTEMBER 20th,2024 to NOVEMBER 20th,2024  
-**Mentor:** Neel Santhosh Kumaar  \
+**Mentor:** Neel Santhosh Kumaar  
 ## Home Page:
 ![image](https://github.com/user-attachments/assets/6fa90bc5-4864-480b-a780-7684d01d2689)
 ## Portfolio Page:
