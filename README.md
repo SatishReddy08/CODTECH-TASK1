@@ -1,5 +1,5 @@
 # Project Name: Personal Portfolio Website  
-**Name:** SATISH REDDY  
+**Name:** VINTHA SATISH REDDY  
 **Company:** CODTECH IT SOLUTION  
 **ID:** CT12DS2486  
 **Domain:** FRONTEND  
