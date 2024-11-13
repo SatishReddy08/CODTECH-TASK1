@@ -1,4 +1,4 @@
-# Project Name: Personal Portfoil Website  
+# Project Name: Personal Portfolio Website  
 **Name:** SATISH REDDY  
 **Company:** CODTECH IT SOLUTION  
 **ID:** CT12DS2486  
