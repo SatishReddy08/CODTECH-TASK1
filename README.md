@@ -1,4 +1,14 @@
-# Project Name: Personal Portfolio Website    
+# Project Name: Personal Portfolio Website 
+## Sections 📚
+✔️ Home\
+✔️ Portfolio\
+✔️ About\
+✔️ Programming Languages\
+✔️ Contact Me\
+
+## Tools Used 🛠️
+* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
+
 ## Home Page:
 ![image](https://github.com/user-attachments/assets/6fa90bc5-4864-480b-a780-7684d01d2689)
 ## Portfolio Page:
@@ -9,14 +19,5 @@
 ![image](https://github.com/user-attachments/assets/6cc5ff78-289f-416f-914f-31d906224821)
 ## Contact Page:
 ![image](https://github.com/user-attachments/assets/1cae806e-f8d1-4bcf-a668-1ea63c18ae02)
-## Sections 📚
-✔️ Home\
-✔️ Portfolio\
-✔️ About\
-✔️ Programming Languages\
-✔️ Contact Me\
-
-## Tools Used 🛠️
-* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
 
 
