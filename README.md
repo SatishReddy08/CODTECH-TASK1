@@ -1,10 +1,4 @@
-# Project Name: Personal Portfolio Website  
-**Name:** VINTHA SATISH REDDY  
-**Company:** CODTECH IT SOLUTION  
-**ID:** CT12DS2486  
-**Domain:** FRONTEND  
-**Duration:** SEPTEMBER 20th,2024 to NOVEMBER 20th,2024  
-**Mentor:** Neel Santhosh Kumaar  
+# Project Name: Personal Portfolio Website    
 ## Home Page:
 ![image](https://github.com/user-attachments/assets/6fa90bc5-4864-480b-a780-7684d01d2689)
 ## Portfolio Page:
